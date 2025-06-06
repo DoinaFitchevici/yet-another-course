@@ -1,2 +1,3 @@
-# yet-another-course
-An introduction to yet another course aimed at providing a comprehensive understanding of the fundamental concepts.!
+# Yet Another Course
+
+An introduction to yet another course aimed at providing a comprehensive understanding of the fundamental concepts.$$$$$
