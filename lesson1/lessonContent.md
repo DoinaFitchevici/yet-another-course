@@ -1,9 +1,8 @@
-# Introduction to Yet Another Course
+# undefined
 
-Overview of the course, importance, and practical applications.
+
 
 ## Learning Objectives
-Understand the fundamentals of the course
+
 
 ## Topics
-undefined
